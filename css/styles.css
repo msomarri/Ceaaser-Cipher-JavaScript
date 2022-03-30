@@ -1,0 +1,17 @@
+.banner{
+  height: 10%;
+  padding:150px;
+}
+.banner-pic{
+  height: 200px;
+  width: auto;
+  overflow-y: visible;
+  margin-right: -199px;
+}
+
+.user-input{
+  padding-top: 50px;
+}
+.shift{
+  padding-top: 10px;
+}
